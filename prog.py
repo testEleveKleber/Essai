@@ -22,4 +22,8 @@ def cadet_roussel(a,b,c):
     un_peu_fripon = 23
     un_peu_ficelle= 42
     return un_peu_ficelle
-    return False
+
+
+
+# On rajoute un commentaire simple
+
