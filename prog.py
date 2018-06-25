@@ -22,3 +22,6 @@ def cadet_roussel(a,b,c):
     un_peu_ficelle= 42
     return un_peu_ficelle
 
+
+# On rajoute un commentaire simple
+
