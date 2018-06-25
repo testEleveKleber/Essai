@@ -11,4 +11,4 @@ def cadet_roussel(a,b,c):
     un_peu_voleur = 32
     un_peu_fripon = 23
     un_peu_ficelle= 42
-    return un_peu_ficelle
+    return un_peu_ficelle + 2
