@@ -3,3 +3,7 @@
 # Continuons à le modifier.
 
 print(42)
+
+
+def monte_carlo(x):
+    return 3*x+2
