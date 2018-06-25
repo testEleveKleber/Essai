@@ -7,3 +7,6 @@ print(42)
 
 def monte_carlo(x):
     return 3*x+2
+    
+def cadet_roussel(n):
+    return False
